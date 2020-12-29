@@ -7,7 +7,7 @@ local games = {
     {GameId = 532222553, X_CHANGE = 0.05, Y_CHANGE = 0.04, MOUSE_OFFSET = Vector2.new(67, 0)}, --Island Royale
     {GameId = 113491250, X_CHANGE = 0.14, Y_CHANGE = 0.14, MOUSE_OFFSET = Vector2.new(0, 0), NO_HUMANOIDS = true}, --Phantom Forces
     {GameId = 1168263273, X_CHANGE = 0.08, Y_CHANGE = 0.08, MOUSE_OFFSET = Vector2.new(0, 0)} --Bad Buisness
-    {GameId = 2788229376, X_CHANGE = 0.49, Y_CHANGE = 0.89, MOUSE_OFFSET = Vector2.new(0, 0)} --Bad Buisness
+    {GameId = 2788229376, X_CHANGE = 0.49, Y_CHANGE = 0.89, MOUSE_OFFSET = Vector2.new(0, 0)} --Da Hood
 }
  
 local isBB = false
